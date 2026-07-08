@@ -22,9 +22,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[University Club Website](https://github.com/hmzabrd)** | Multi-page site for a real student club at FSBM — trilingual (AR/FR/EN) with RTL support, dark/light mode, deployed in production | React, Vite, React Router, Vercel |
-| **Developer Learning Path Tracker** | Web app to track programming progress (frontend/backend/algorithms) with a code-snippet library and GitHub-style streak visualization | HTML, CSS, JavaScript |
-| **Bank Account Management System** | Console application in C for full account management — creation, deposits, withdrawals, transfers, with strict input validation and binary/text file persistence | C |
+| **[University Club Website](https://github.com/hmzabrd/university-club-project)** | Multi-page site for a real student club at FSBM — trilingual (AR/FR/EN) with RTL support, dark/light mode, deployed in production | React, Vite, React Router, Vercel |
+| **[Developer Learning Path Tracker](https://github.com/hmzabrd/developer-learning-tracker)** | Web app to track programming progress (frontend/backend/algorithms) with a code-snippet library and GitHub-style streak visualization | HTML, CSS, JavaScript |
+| **[Bank Account Management System](https://github.com/hmzabrd/project_bank)** | Console application in C for full account management — creation, deposits, withdrawals, transfers, with strict input validation and binary/text file persistence | C |
 
 *(Update the links above once repos are public — happy to help you write proper repo-level READMEs too.)*
 
